@@ -5,7 +5,8 @@
     },
     "2": {
         "setup": "The price of Bitcoin will reach an unprecedented $140,000 per coin.",
-        "punchline": "The cost of a single Bitcoin transaction will be around $139,999."
+        "punchline": "The cost of a single Bitcoin transaction will be around $139,999.",
+        "selected": "http://sometechnewswebsite.com/relevant_article"
     },
     "3": {
         "setup": "Linux reaches 6% market share according to browser useragent rankings.",
