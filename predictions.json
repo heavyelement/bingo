@@ -1,0 +1,110 @@
+{
+    "1":{
+        "setup":"Elon Musk debuts a new Tesla vehicle.",
+        "punchline":"Instead of break and accelerator pedals, the floor of the vehicle is a treadmill. People call Musk a genius when he really just copied the Flintstones."
+    },
+    "2":{
+        "setup":"The price of Bitcoin will reach an unprecedented $140,000 per coin.",
+        "punchline":"The cost of a single Bitcoin transaction will be around $139,999."
+    },
+    "3":{
+        "setup":"Linux reaches 6% market share according to browser useragent rankings.",
+        "punchline":"Grumpy Linux users everywhere mutter something about how <i>\"market share doesn't matter.\"</i>"
+    },
+    "4":{
+        "setup":"Disney announces plans to acquire Canonical.",
+        "punchline":"<i>\"The Ubuntu Movie\"</i> is released to theaters starring Seth Rogen as an anthropomorphized Ubuntu logo&mdash;becomes part of the Marvel Cinematic Universe."
+    },
+    "5":{
+        "setup":"System76's Pop!_OS sees major adoption.",
+        "punchline":"No joke here, I'd just like to see them succeed."
+    },
+    "6":{
+        "setup":"Kernel developers patch a half-decade-old exploit found the kernel.",
+        "punchline":"Said exploit mysteriously appeared in a commit by an unknown developer and seems intentional."
+    },
+    "7":{
+        "setup":"Apple announces they plan to <s>artificially brick</s> \"retire\" all iPhone 6-era devices, will un-brick them for $199.",
+        "punchline":"Their customers applaud the move as 'courageous' and justify the plan as 'protecting' both consumers and the environment."
+    },
+    "8":{
+        "setup":"Net Neutrality continues to make headlines as Verizon and Comcast push for greater control over what you see online.",
+        "punchline":"Verizon starts to 'unlock' websites with lootboxes that cost $2.94 a piece. Each lootbox unlocks a single, random website."
+    },
+    "9":{
+        "setup":"Microsoft releases a new Windows 10 update that installs adware into existing Linux partitions.",
+        "punchline":"This adware can break out of a VM environment. It's purpose: advertises Office 365 and OneDrive."
+    },
+    "10":{
+        "setup":"YouTube demonitization issues continue to worsen.",
+        "punchline":"YouTube discriminates against FOSS content because advertisers are scared of the word 'free.'"
+    },
+    "11":{
+        "setup":"A game on Steam will be discovered to contain software that acts suspiciously like spyware.",
+        "punchline":"Valve won't take action until it starts to hurt their bottom line. Fans of the game defend the inclusion of the spyware, SWAT people critical of the dev."
+    },
+    "12":{
+        "setup":"Facebook will acquire Twitter for 1 billion dollars.",
+        "punchline":"Suddenly, even less of your Twitter feed is relevant to your interests."
+    },
+    "13":{
+        "setup":"Security researchers find that an IME 'bug' is actually an NSA backdoor.",
+        "punchline":"NSA claims it's not a bug, it's a feature. The irony is lost on them."
+    },
+    "14":{
+        "setup":"Gardiner finds a stable release of KDenLive and doesn't upgrade it for the rest of the year.",
+        "punchline":"This isn't so much a prediction as it is hope blinding me to reality."
+    },
+    "15":{
+        "setup":"A leaked internal memo from a large tech firm outs the existence of a Silicon Valley Satanic Sex Cult and many of its members.",
+        "punchline":"Members include: <ul><li>Grand Nagus Bezos</li><li>Dark Lord Brin</li><li>Wankmaster Sean Rad</li><li>Travis Kalanick</li></ul>"
+    },
+    "16":{
+        "setup":"Hardware enthusiasts get more than they bargained for as they upgrade to Nvidia's latest GPU.",
+        "punchline":"A defect in the GPU's manufacturing process burns a permanent, faint image of what looks like a naked man into the frame buffer."
+    },
+    "17":{
+        "setup":"A large bank starts to admonish against the use of their credit cards after a massive data breach. They recommend using cash instead.",
+        "punchline":"Unfortunately, the bank refuses to let people withdraw their money and begins issuing their own cryptocurrency in its place. Their stock price soars."
+    },
+    "18":{
+        "setup":"An AI makes headlines as it's trained using publicly available Facebook data.",
+        "punchline":"After gaining sentience, the only answers it gives when asked a question are Whataboutisms, links to Alex Jones videos, or cat memes."
+    },
+    "19":{
+        "setup":"Bucking the trend of privacy-invasion, a social media site makes waves as a decentralized 'forgetful' network.",
+        "punchline":"Its main selling point: it uses blockchain technology to expire posts and make them forever unreadable. Its IPO does well since it uses 'blockchain.'"
+    },
+    "20":{
+        "setup":"A Russian hacker collective uses a botnet to influence American CEOs.",
+        "punchline":"After hearing this, the CEOs start to realize that they're really just human beings in fancy suits."
+    },
+    "21":{
+        "setup":"A whistleblower at Amazon reveals that Echo devices are being used to ultrasonically map your activities.",
+        "punchline":"This data feeds a marketing algorithm that's used to sell you more laundry detergent, among other things.."
+    },
+    "22":{
+        "setup":"The channel will gain 20,000+ subscribers in 2018.",
+        "punchline":"Due to a series of videos simply titled <i>\"Clickbait, Linux, and You!\"</i>"
+    },
+    "23":{
+        "setup":"Apple uses their proprietary AR tech to have an 'AR hologram' Steve Jobs unveil their new product line.",
+        "punchline":"\"Oh, and one more thing...\" iPhone X users who attend the event get the exclusive Steve Jobs animoji for only $4.99."
+    },
+    "24":{
+        "setup":"A big-name AAA game is announced as coming to Linux with the port being done in house.",
+        "punchline":"The game is Playerunknown's Battlegrounds and it performs better than the Xbox One version."
+    },
+    "25":{
+        "setup":"GNOME's next release brings us 'GNOME Tautology.'",
+        "punchline":"A native GTK app that accepts user input and repeats it back to them."
+    },
+    "26":{
+        "setup":"Lunduke manages to run DOSBox on Intel's Management Engine co-processor.",
+        "punchline":"His dreams came true!"
+    },
+    "27":{
+        "setup":"Puri.sm shows off prototypes of their Librem 5 phone and demonstrate a previously unannounced feature.",
+        "punchline":"This feature allows the user to never turn it on and therefore never have their privacy invaded."
+    }
+}
