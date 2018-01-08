@@ -20,7 +20,7 @@
         "punchline": "No joke here, I'd just like to see them succeed."
     },
     "6": {
-        "setup": "Kernel developers patch a half-decade-old exploit found the kernel.",
+        "setup": "Kernel developers patch a half-decade-old exploit found in the kernel.",
         "punchline": "Said exploit mysteriously appeared in a commit by an unknown developer and seems intentional. It was merged because it didn't break userspace."
     },
     "7": {
